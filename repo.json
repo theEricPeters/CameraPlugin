@@ -9,12 +9,12 @@
         "Description": "Set camera values while out of combat.",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
-		"IsHide": "False",
-		"IsTestingExclusive": "False",
-		"DownloadCount": 0,
-		"LastUpdate": 1617416143,
-		"DownloadLinkInstall": "https://github.com/theEricPeters/CameraPlugin/releases/download/1.0.0.0/latest.zip",
-		"DownloadLinkTesting": "https://github.com/theEricPeters/CameraPlugin/releases/download/1.0.0.0/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/theEricPeters/CameraPlugin/releases/download/1.0.0.0/latest.zip"
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 1617416143,
+        "DownloadLinkInstall": "https://github.com/theEricPeters/CameraPlugin/releases/download/1.0.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/theEricPeters/CameraPlugin/releases/download/1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/theEricPeters/CameraPlugin/releases/download/1.0.0.0/latest.zip"
 	}
 ]

@@ -1,0 +1,9 @@
+{
+  "Author": "daemitus",
+  "Name": "Camera Man",
+  "InternalName": "CameraPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Set camera values while out of combat.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 2
+}
